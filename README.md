@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Dian Octavian 👋
 
-<!--
-**Dianoctavian-003/Dianoctavian-003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Informatics Engineering Student at Universitas Muhammadiyah Malang with a strong focus on Mobile and Web Development. Experienced in building component-based mobile applications using React Native and Expo.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack & Tools
+- **Languages:** Python, JavaScript, C, HTML, CSS
+- **Mobile Development:** React Native, Expo
+- **Tools:** Git, GitHub, Canva, CapCut, Microsoft Office, Google Workspace
+
+---
+
+### 📌 Key Projects
+- **Pet Care App** | *React Native, Expo*
+  - Developing a component-based mobile application focused on structured UI and reusable components.
+- **Smart Canteen by QR** | *System Analysis & Prototype*
+  - Academic prototype for a QR-based ordering and payment concept for campus canteens.
+
+---
+
+📫 **Connect with Me:**
+- **LinkedIn:** [dian-octavian](https://www.linkedin.com/in/dian-octavian-050127345)
+- **Email:** dianoctavin24@gmail.com
